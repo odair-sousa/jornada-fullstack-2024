@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gv-odair-sousa/Área de Trabalho/Cursos/Projects/Fina/Fina.Core/Fina.Core.csproj": {}
+  },
+  "projects": {
+    "/home/gv-odair-sousa/Área de Trabalho/Cursos/Projects/Fina/Fina.Core/Fina.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gv-odair-sousa/Área de Trabalho/Cursos/Projects/Fina/Fina.Core/Fina.Core.csproj",
+        "projectName": "Fina.Core",
+        "projectPath": "/home/gv-odair-sousa/Área de Trabalho/Cursos/Projects/Fina/Fina.Core/Fina.Core.csproj",
+        "packagesPath": "/home/gv-odair-sousa/.nuget/packages/",
+        "outputPath": "/home/gv-odair-sousa/Área de Trabalho/Cursos/Projects/Fina/Fina.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gv-odair-sousa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/gv-odair-sousa/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
